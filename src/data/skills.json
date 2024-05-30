@@ -1,0 +1,30 @@
+[
+  {
+    "title": "python",
+    "imageSrc": "skills/python.png"
+  },
+  {
+    "title": "docker",
+    "imageSrc": "skills/docker.png"
+  },
+  {
+    "title": "aws",
+    "imageSrc": "skills/aws.png"
+  },
+  {
+    "title": "mysql",
+    "imageSrc": "skills/mysql.png"
+  },
+  {
+    "title": "openCV",
+    "imageSrc": "skills/OpenCV.png"
+  },
+  {
+    "title": "MongoDB",
+    "imageSrc": "skills/mongodb.png"
+  },
+  {
+    "title": "PyTorch",
+    "imageSrc": "skills/PyTorch.png"
+  }
+]

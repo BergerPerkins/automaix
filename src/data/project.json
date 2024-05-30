@@ -1,7 +1,7 @@
 [
     {
       "title": "PREDICTIVE ANALYTICS",
-      "imageSrc": "projects/4.jpeg",
+      "imageSrc": "projects/3.jpeg",
       "description": " we harness the power of predictive analytics to uncover hidden patterns and trends in your data. Our expert team develops tailored models that forecast future outcomes, enabling you to make informed decisions, optimize operations, and drive business growth. We help you stay ahead of the curve with data-driven insights.",
       "skills": ["React", "Express", "Node"],
       "demo": "https://www.example.com",
@@ -17,7 +17,7 @@
     },
     {
       "title": "GENERATIVE AI",
-      "imageSrc": "projects/6.jpeg",
+      "imageSrc": "projects/4.jpeg",
       "description": " we create innovative solutions that generate new, unique content, such as images, videos, music, and text. Our team of experts develops custom models that learn from your data, producing high-quality outputs that augment human creativity. From content generation to data augmentation, we help you unlock the full potential of generative AI.",
       "skills": ["React", "Express", "Node"],
       "demo": "https://www.example.com",

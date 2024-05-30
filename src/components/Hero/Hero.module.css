@@ -122,4 +122,14 @@
     width: 400px !important;
     filter: grayscale(.5);
   }
+  .container {
+    margin-left: 4%;
+    margin-right: 4%;
+  }
+  .title {
+    font-size: 35px;
+  }
+  .description{
+    font-size: 15px;
+  }
 }

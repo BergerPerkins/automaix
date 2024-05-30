@@ -1,7 +1,7 @@
 [
   {
     "title": "Ai chatbot",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/1.jpeg",
     "description": "Our AI chatbots offer seamless customer interactions, providing instant responses, 24/7 availability, and personalized experiences. Enhance customer satisfaction and streamline support with our intelligent, conversational AI solutions tailored to your business needs.",
     "skills": ["React", "Express", "Node"],
     "demo": "https://www.example.com",
@@ -9,7 +9,7 @@
   },
   {
     "title": "Customer Service",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/2.jpeg",
     "description": "Increase your customer loyalty and build higher trust. Our team of developers provides AI powered solutions so you will experience seamless, efficient customer service 24/7.",
     "skills": ["React", "Express", "Node", "Sass"],
     "demo": "https://www.example.com",
@@ -17,7 +17,7 @@
   },
   {
     "title": "Custom Ai solutions ",
-    "imageSrc": "projects/project.png",
+    "imageSrc": "projects/3.jpeg",
     "description": "Our custom AI agents, including voice caller agents and specialized task agents, revolutionize business processes. They automate routine tasks, handle complex customer interactions, and provide detailed analytics. With advanced machine learning capabilities, our agents adapt to your specific needs, ensuring efficiency, accuracy, and enhanced customer experiences, driving your business towards greater productivity and growth.",
     "skills": ["React", "Express", "Node"],
     "demo": "https://www.example.com",
